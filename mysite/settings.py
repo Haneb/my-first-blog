@@ -25,7 +25,7 @@ SECRET_KEY = 'odcncm6*bar=@jc&(ne@mm5#p(ary-$k1rorr#qnveaf8g1pmr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'mes.pythoneanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'mes.pythonanywhere.com']
 
 
 # Application definition
